@@ -104,6 +104,15 @@
 <br>
 
 -----
+<br>
+<br>
+
+[![An image of @sanage's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/sanage)](https://holopin.io/@sanage)
+
+<br>
+<br>
+
+-----
 
 <br>
 
