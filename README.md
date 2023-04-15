@@ -91,7 +91,7 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Ankur2606&show_icons=true&locale=en&layout=compact&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" width="375"  alt="Ankur2606"/>
 
 </a>
-</div>
+
 
 <br>
 <br>
@@ -100,7 +100,14 @@
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=Ankur2606&row=1&theme=juicyfresh)](https://github.com/ryo-ma/github-profile-trophy)
 
+</div>
 <br>
+<br><br>
+<p align="center">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Ankur2606&theme=radical&border_radius=)](https://git.io/streak-stats" alt="Ankur2606" height=200/>
+</p>
+
+<p align="right"> <img src="https://komarev.com/ghpvc/?username=Ankur2606&label=Profile%20views&color=0e75b6&style=flat" alt="Ankur2606" /> </p>
 <br>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
@@ -113,6 +120,9 @@
 <br>
 <br>
 
+<br>
+
+<br>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 <br>
