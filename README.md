@@ -2,7 +2,7 @@
 <h1 align="center"><b>Hi , I'm Bhavya Pratap Singh Tomar </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Greetings+my+Fellow+Developer..&hearts;++;Fresher+pursuing+Specialization+in+AIML,;Research+Blogger,;Devops+Enthusiast,;Active+Learner/Researcher,;Love+to+learn+new+stuffs..<3"></a>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Greetings+my+Fellow+Developer..&hearts;++;Sophomore+pursuing+Specialization+in+AIML,;Research+Blogger,;Devops+Enthusiast,;Active+Learner/Researcher,;Love+to+learn+new+stuffs..<3"></a>
 </p>
 
 
@@ -11,15 +11,15 @@
 
 
 	
-## <picture><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 50px></picture> **About me**
+## **About me**
 
 
 
 <br>
 
-- A passionate MLOPS Developer
+- A passionate ML Enthusiast
 - Usuals Competitive Programming Contests
-- Currently learning Devops and Frontend
+- Currently learning Devops and Mlops
 - Checkout my Certificates Collection [link](https://github.com/Ankur2606/Ankur2606/tree/main/My%20Certificate%20Collection)
 - I’m currently open for an Intern or a new job opportunity, this is [my resume](https://github.com/Ankur2606/Ankur2606/blob/main/Bhavya%20Resume.pdf)
 
