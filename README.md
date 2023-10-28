@@ -21,7 +21,8 @@
 - Usuals Competitive Programming Contests
 - Currently learning Devops and Mlops
 - Checkout my Certificates Collection [link](https://github.com/Ankur2606/Ankur2606/tree/main/My%20Certificate%20Collection)
-- I’m currently open for an Intern or a new job opportunity, this is [my resume](https://github.com/Ankur2606/Ankur2606/blob/main/Bhavya%20Resume.pdf)
+- I’m currently open for an Intern or a new job opportunity, this is [my resume](https://github.com/Ankur2606/Ankur2606/blob/main/Bhavya's%20Final&20Resume.pdf)
+- 
 
 <br><br>
 
