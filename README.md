@@ -1,5 +1,4 @@
-
-<h1 align="center"><b>Hi , I'm Bhavya Pratap Singh Tomar </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+<h1 id = "top" align="center"><b>Hi , I'm Bhavya Pratap Singh Tomar </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
 <p align="center">
   <a href="https://github.com/Ankur2606"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Greetings+my+Fellow+Developer..&hearts;++;Junior+pursuing+Specialization+in+AIML,;Research+Blogger,;Devops+Enthusiast,;Active+Learner/Researcher,;Love+to+learn+new+stuff..<3"></a>
@@ -172,4 +171,6 @@
 
 <br>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+<a href="#top"><img src="https://img.shields.io/badge/⬆-Back%20to%20Top-red?style=for-the-badge" align="right"/></a>
 
